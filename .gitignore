@@ -1,0 +1,7 @@
+*.cbp
+*.depend
+*.layout
+/bin
+/glm
+/obj
+/resources
